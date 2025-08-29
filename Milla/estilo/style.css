@@ -19,6 +19,12 @@ main{
     height: 100vh;
     position: relative;
 }
+footer{
+  
+    border: 1px solid black;
+    background-color: rgba(13, 167, 239, 0.633);
+    text-align: center;
+}
 section#celular{
     position: absolute;
     top: 50%;
@@ -36,4 +42,7 @@ iframe#tela{
     left: 23px;
     width: 270px;
     height: 470px;
+}
+section.redes-sociais{
+    width: 50px;
 }
