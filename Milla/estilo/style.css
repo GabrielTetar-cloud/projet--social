@@ -9,9 +9,10 @@ html,body{
     height: 100vh;
 }
 body{
-    background-image: url(../imagens/pequena.jpg);
+    background-color: blueviolet;
+    background-image: url(../imagens/pexels-lena-goncharova-78970252-8692601.jpg);
     background-repeat: no-repeat;
-    background-position: right center ;
+    background-position: right center;
     background-size: cover;
     background-attachment: fixed;
 }
