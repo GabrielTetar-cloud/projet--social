@@ -29,9 +29,18 @@ section#computador{
 }
 iframe#tela{
     position: relative;
-    top: 10px;
-    left: 30px;
-    height: 100;
-    width: 100px;
+    top: 17px;
+    left: 40px;
+    width: 520px;
+    height: 280px;
+}
+section#redes-sociais>a>img{
+    width: 70px;
+    padding: 10px;
+    margin: 10px;
+    position: right;
+
+    border-radius: 50%;
+    box-sizing: border-box;
 
 }
